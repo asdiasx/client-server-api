@@ -1,1 +1,4 @@
 .DS_Store
+app.log
+cotacao.txt
+quotation.db
