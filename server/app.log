@@ -1,0 +1,22 @@
+SERVER: 2025/03/13 14:15:44 INFO: Request processed
+SERVER: 2025/03/13 14:16:59 INFO: Request canceled by client
+SERVER: 2025/03/13 14:21:53 INFO: Request canceled by client
+SERVER: 2025/03/13 14:21:53 http: superfluous response.WriteHeader call from main.startServer.quotationHandler.func1 (server.go:96)
+SERVER: 2025/03/13 14:24:31 http: superfluous response.WriteHeader call from main.startServer.quotationHandler.func1 (server.go:106)
+SERVER: 2025/03/13 14:24:31 INFO: Request processed
+SERVER: 2025/03/13 14:24:48 http: superfluous response.WriteHeader call from main.startServer.quotationHandler.func1 (server.go:106)
+SERVER: 2025/03/13 14:24:48 INFO: Request processed
+SERVER: 2025/03/13 14:57:28 INFO: Request canceled by client
+SERVER: 2025/03/13 14:57:29 http: superfluous response.WriteHeader call from main.processRequest.func1 (server.go:117)
+SERVER: 2025/03/13 15:01:00 INFO: Request canceled by client
+SERVER: 2025/03/13 15:01:00 http: superfluous response.WriteHeader call from main.processRequest.func1 (server.go:117)
+SERVER: 2025/03/13 15:04:09 INFO: Request canceled by client
+SERVER: 2025/03/13 15:04:09 http: superfluous response.WriteHeader call from main.processRequest.func1 (server.go:116)
+SERVER: 2025/03/13 21:48:16 INFO: Request canceled by client
+SERVER: 2025/03/13 21:48:16 http: superfluous response.WriteHeader call from main.processRequest.func1 (server.go:114)
+SERVER: 2025/03/13 21:51:44 INFO: Request canceled by client
+SERVER: 2025/03/13 21:51:44 http: superfluous response.WriteHeader call from main.processRequest.func1 (server.go:114)
+SERVER: 2025/03/15 13:44:50 INFO: Request canceled by client
+SERVER: 2025/03/15 13:47:15 INFO: Request canceled by client
+SERVER: 2025/03/15 13:55:59 ERROR: Get "https://economia.awesomeapi.com.br/json/last/USD-BRL": context deadline exceeded
+SERVER: 2025/03/15 13:58:51 INFO: Request canceled by client
